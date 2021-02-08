@@ -1,4 +1,4 @@
-# BigFont-ssd1603
+# i2c oled driver for micropython — ssd1603big
 A font for micropython on 128x64 pixel ssd1306 oled display. 
 
 Rasberry Pi Pico default connections: SDA to GP8 and SCL to GP9.
